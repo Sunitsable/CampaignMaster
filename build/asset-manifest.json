@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/manage-website/static/css/main.f6f80d31.css",
+    "main.js": "/manage-website/static/js/main.08b101b1.js",
+    "static/media/Ai-content-generation-blog-header.jpeg.webp": "/manage-website/static/media/Ai-content-generation-blog-header.jpeg.bd68638d356525b7133e.webp",
+    "static/media/avatar-ali.png": "/manage-website/static/media/avatar-ali.88f9155cb730934f4d7c.png",
+    "static/media/avatar-shanai.png": "/manage-website/static/media/avatar-shanai.4bbe2f95e8975736fbd8.png",
+    "static/media/avatar-anisha.png": "/manage-website/static/media/avatar-anisha.484e15bc92ce6a0106ab.png",
+    "static/media/avatar-richard.png": "/manage-website/static/media/avatar-richard.ace8e0892f67a50c1e9e.png",
+    "static/media/logo.svg": "/manage-website/static/media/logo.66a576108be35c08eb2ca3e40c17d151.svg",
+    "index.html": "/manage-website/index.html",
+    "static/media/icon-instagram.svg": "/manage-website/static/media/icon-instagram.54d3962efa2aa6085b776d1816557a6a.svg",
+    "static/media/icon-pinterest.svg": "/manage-website/static/media/icon-pinterest.45264b1d1cdf7f0c420d573853779f7b.svg",
+    "static/media/icon-twitter.svg": "/manage-website/static/media/icon-twitter.01a8907dd0beb126cff27d505c31be52.svg",
+    "static/media/icon-youtube.svg": "/manage-website/static/media/icon-youtube.7d6960fbb0c4831f7c667012f0b102d2.svg",
+    "static/media/icon-facebook.svg": "/manage-website/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
+    "static/media/icon-close.svg": "/manage-website/static/media/icon-close.d5ba0dc53461cfc81979638f3b9fcf2e.svg",
+    "static/media/bg-tablet-pattern.svg": "/manage-website/static/media/bg-tablet-pattern.b6990a984c7bcc142d3e9783736e996a.svg",
+    "static/media/icon-hamburger.svg": "/manage-website/static/media/icon-hamburger.8dcf47cc6f3180ad040f1173f3592504.svg",
+    "main.f6f80d31.css.map": "/manage-website/static/css/main.f6f80d31.css.map",
+    "main.08b101b1.js.map": "/manage-website/static/js/main.08b101b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f80d31.css",
+    "static/js/main.08b101b1.js"
+  ]
+}
